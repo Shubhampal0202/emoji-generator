@@ -1,4 +1,4 @@
-## Todos App
+## Emoji Generator App
 
 An app to generate random emojies;
 
@@ -17,7 +17,7 @@ An app to generate random emojies;
 
  ### Steps to run
 
- Clone this repo in your local ststem using following command;
+ Clone this repo in your local system using following command;
 
  git clone `https://github.com/Shubhampal0202/emoji-generator.git`
 
